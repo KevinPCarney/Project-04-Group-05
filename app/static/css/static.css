@@ -1,0 +1,17 @@
+#map-container {
+    height: 800px;
+}
+
+#map {
+    height: 100%;
+}
+
+/* About block container styling */
+.about-block {
+    text-align: left; /* Align content to the left */
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: white; /* Light background color for each block */
+    border: 1px solid #ddd; /* Border around each block */
+    border-radius: 5px; /* Rounded corners */
+}
