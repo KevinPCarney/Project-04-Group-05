@@ -2,95 +2,116 @@
 <html>
 <head>
   <title>About Us</title>
-  <!-- Bootstrap -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/lumen/bootstrap.min.css" integrity="sha384-GzaBcW6yPIfhF+6VpKMjxbTx6tvR/yRd/yJub90CqoIn2Tz4rRXlSpTFYMKHCifX" crossorigin="anonymous">
-  <link href="./static/css/static.css" rel="stylesheet">
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://bootswatch.com/5/slate/bootstrap.min.css", rel="stylesheet">
+    <link href="./static/css/static.css" rel="stylesheet">
 
-  <style>
-    .member {
-      text-align: left; /* Align content to the left */
-      margin-bottom: 20px;
-      padding: 20px;
-      background-color: white; /* Light background color for each block */
-      border: 1px solid #ddd; /* Border around each block */
-      border-radius: 5px; /* Rounded corners */
-    }
-  </style>
-  
+    <!-- BACKGROUND IMAGE, CHAT GBT-->
+    <style>
+        body {
+            background-image: url('static/images/light_grey_lines_background.jpg');
+            background-size: 25%;
+            background-repeat: repeat;
+            background-attachment: fixed;
+            background-position: center;
+            color: #f8f9fa; /* Light color for all text */
+        }
+    </style>
 </head>
+
 <body>
-  <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="home.html">Home</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarColor03">
-        <ul class="navbar-nav me-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="Home.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="Machine_learning.html">Machine Learning</a>
-          </li>
-          <li class="nav-item"></li>
-            <a class="nav-link" href="tableau.html">Tableau</a>
-          </li>
-          <li class="nav-item"></li>
-          <a class="nav-link" href="report.html">Report</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about_us.html">About Us</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="links.html">Work Cited</a>
-          </li>
-        </ul>
-      </div>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/"><img src="static/images/logo.jpg" onerror="this.onerror=null; this.remove()"  width="45", height="30"></a>
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/machine_learning.html">Machine_learning</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/tableau1.html">Tableau1</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/tableau2.html">Tableau2</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link active" href="about_us.html">About Us</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="links.html">Work Cited</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- add spacing -->
+    <br/>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+              <h1>ABOUT OUR TEAM</h1>
+              <br/>
+            </div>
+        <div class="row">
+            <div class="col-md-6 member">
+                <h2>
+                    <a href="https://www.linkedin.com/in/paris-lee-5b93491a2/?trk+contact-info" target="_blank" style="text-decoration: underline;">Paris</a>
+                </h2> 
+                <img src="../static/images/Paris.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
+                <p>
+                    Paris is a newly minted Medical Laboratory Scientist from Cleveland, 
+                    Ohio. She is studying data analytics with the hopes of incorporating it into her 
+                    future career as a physician, with the larger overarching goal of being a point of 
+                    understandable scientific and medical information. She aims to support her community 
+                    and loved ones, and ultimately help people to be informed and lead healthy and fulfilling 
+                    lives.
+                </p>
+            </div>
+
+            <div class="col-md-6 member">
+                <h2>
+                    <a href="https://github.com/KevinPCarney" target="_blank" style="text-decoration: underline;">Kevin</a>
+                </h2> 
+                <img src="../static/images/Kevin.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
+                <p>
+                    Kevin is a specifications analyst who is currently working for General Motors. 
+                    When he has time, he enjoys playing Magic: The Gathering, and also enjoys watching 
+                    Star Trek. P.S. Sisko is the best captain!
+                </p>
+            </div>
+
+            <div class="col-md-6 member">
+                <h2>
+                    <a href="https://www.linkedin.com/in/joyceweishan" target="_blank" style="text-decoration: underline;">Joy</a>
+                </h2> 
+                <img src="../static/images/Joy.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
+                <p>
+                    Joy is an experienced IT professional from rural Wisconsin. She is studying data analytics 
+                    as well as full-stack development to accommodate data visualization presentation. 
+                    Her goal is to incorporate better understanding of Big Data and full-stack development to 
+                    add to her numerous other IT skills. She aims to support data analytics using an ethical 
+                    approach with fully implementing applications with regulatory compliance, data quality, 
+                    efficiency in data retrieval, and to avoid data bias when possible.
+                </p>
+            </div>
+
+            <div class="col-md-6 member">
+                <h2>
+                    <a href="www.linkedin.com/in/samantha-schutz-aa674b164" target="_blank" style="text-decoration: underline;">Samantha</a>
+                </h2> 
+                <img src="../static/images/Samantha.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
+                <p>
+                    Samantha is an experienced Medical Laboratory Scientist in Western Wisconsin. She is 
+                    studying data analytics to incorporate with her current role as a lead technologist in 
+                    chemistry. Eventually, she would like to work for an instrumentation company in quality. 
+                    She enjoys her hobby farm with her family and learning new things.</p>
+                </p>
+            </div>
     </div>
-  </nav>
-  
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <br>
-      <br>
-      <h1>ABOUT OUR TEAM</h1>
-      <br/>
-    </div>
-    <div class="row">
-      <div class="col-md-6 member">
-        <h2>
-          <a href="https://www.linkedin.com/in/paris-lee-5b93491a2/?trk+contact-info" target="_blank" style="text-decoration: underline;">Paris</a>
-        </h2>
-        <img src="../static/images/Paris.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
-        <p>Paris is a newly minted Medical Laboratory Scientist from Cleveland, Ohio. She is studying data analytics with the hopes of incorporating it into her future career as a physician, with the larger overarching goal of being a point of understandable scientific and medical information. She aims to support her community and loved ones, and ultimately help people to be informed and lead healthy and fulfilling lives.</p>
-      </div>
-      <div class="col-md-6 member">
-        <h2>
-          <a href="https://github.com/KevinPCarney">Kevin</a>
-        </h2>
-        <img src="../static/images/Kevin.jpg" alt="Team Member 1" class="img-fluid" style="max-width: 50px; height: auto;">
-        <p>Kevin is a specifications analyst who is currently working for General Motors. When he has time, he enjoys playing Magic: The Gathering, and also enjoys watching Star Trek. P.S. Sisko is the best captain!</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 member">
-        <h2>
-          <a href="https://www.linkedin.com/in/joyceweishan" target="_blank" style="text-decoration: underline;">Joy</a>
-        </h2>
-        <img src="../static/images/Joy.jpg" alt="Team Member 2" class="img-fluid" style="max-width: 50px; height: auto;">
-        <p>Joy is an experienced IT professional from rural Wisconsin. She is studying data analytics as well as full-stack development to accommodate data visualization presentation. Her goal is to incorporate better understanding of Big Data and full-stack development to add to her numerous other IT skills. She aims to support data analytics using an ethical approach with fully implementing applications with regulatory compliance, data quality, efficiency in data retrieval, and to avoid data bias when possible.</p>
-      </div>
-      <div class="col-md-6 member">
-        <h2>
-          <a href="https://www.linkedin.com/in/joyceweishan" target="_blank" style="text-decoration: underline;">Samantha</a>
-        </h2>
-        <img src="../static/images/Samantha.jpg" alt="Team Member 2" class="img-fluid" style="max-width: 50px; height: auto;">
-        <p>Samantha is an experienced Medical Laboratory Scientist in Western Wisconsin. She is studying data analytics to incorporate with her current role as a lead technologist in chemistry. Eventually, she would like to work for an instrumentation company in quality. She enjoys her hobby farm with her family and learning new things.</p>
-      </div>
-    </div>
-  </div>
 </body>
 </html>
