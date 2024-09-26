@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HOME</title>
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://bootswatch.com/5/slate/bootstrap.min.css" rel="stylesheet">
+    <link href="./static/css/static.css" rel="stylesheet">
+    
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- JS -->
+    <script type="text/javascript" src="static/js/logic.js"></script>
+    <!-- BACKGROUND IMAGE -->
+    <style>
+        body {
+            background-image: url('static/images/light_grey_lines_background.jpg');
+            background-size: 25%;
+            background-repeat: repeat;
+            background-attachment: fixed;
+            background-position: center;
+            color: #f8f9fa; /* Light color for all text */
+        }
+    </style>
+</head>
+    
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/"><img src="static/images/louisiana_marsh_fire_superfog.avif" height="60px" alt="Logo"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>  
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a class="nav-link" href="home.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="machine_learning.html">Machine Learning</a></li>
+                <li class="nav-item"><a class="nav-link" href="tableau1.html">Tableau1</a></li>
+                <li class="nav-item"><a class="nav-link" href="tableau2.html">Tableau2</a></li>
+                <li class="nav-item"><a class="nav-link" href="about_us.html">About Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="links.html">Work Cited</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <br>
+                <h1>Welcome to NHTSA Crash Reporting</h1>
+            </div>
+            <hr>
+            <div class="col-md-12 text-center">
+                <a class="navbar-brand" href="/">
+                    <img src="../static/images/autonomous_vehicle.jpg" onerror="this.onerror=null; this.remove()" width="200" height="180" alt="Autonomous Vehicle">
+                </a>
+            </div>
+            <br>
+            <hr>
+            <br>
+            <div class="row">
+                <div class="col-md-6">
+                    <p>According to the Essurance Study, 77% of Drivers in the United States have been in at least one car accident in their lives and that number is rising. In 2022, road crashes resulted in 38,000 people losing their lives each year and is the leading cause of death in the country.</p>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="../static/images/fatal.jpg" alt="Fatal Car Crash" class="img-fluid">
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-md-6 text-center">
+                    <img src="../static/images/ADS.jpg" alt="Automated Driving System" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+                    <p>NHTSA created a Standing Order so that all crashes using Automated Driving Systems were reported. The first remote-piloted cars were debuted by General Motors at the 1939 Worlds Fair. This eventually led to the first autonomous (self-driving) car prototypes in the 1980s after 30 years of testing.</p>
+                </div>
+            </div>
+            <br>
+            <div class="text-center">
+                <h4>BLAH BLAH BLAH</h4>
+                <img src="../static/images/mercedes.jpg" alt="Automated Driving System" class="col-md-3">
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <!-- Set active class for the current page -->
+    <script>
+        $(document).ready(function() {
+            var path = window.location.pathname;
+            $('.nav-link').each(function() {
+                if ($(this).attr('href') === path) {
+                    $(this).addClass('active');
+                }
+            });
+        });
+    </script>
+
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="static/js/app.js"></script>
+</body>
+</html>
+

@@ -11,7 +11,28 @@
     text-align: left; /* Align content to the left */
     margin-bottom: 20px;
     padding: 20px;
-    background-color: white; /* Light background color for each block */
+    background-color: #343a40; /* Light background color for each block */
     border: 1px solid #ddd; /* Border around each block */
     border-radius: 5px; /* Rounded corners */
+}
+
+.member {
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+.large-image 
+{
+    width: 80%; /* or specify a fixed width */
+    height: 70%; /* maintains aspect ratio */
+}
+
+.small-image 
+{
+    width: 5%; /* or specify a fixed width */
+    height: 5%; /* maintains aspect ratio */
 }
