@@ -81,12 +81,12 @@ Jaguar,I-Pace,2021.0,128293.0,Yes,JUN-2024,16:54,Marina Del Rey,CA ,Intersection
 Jaguar,I-Pace,2021.0,129577.0,Yes,JUN-2024,10:38,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2024.0,14415.0,Yes,JUN-2024,22:52,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Changing Lanes,No,No,Yes,35.0,Clear
 Jaguar,I-Pace,2021.0,122972.0,Yes,JUN-2024,04:37,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,35.0,Clear
-Peterbilt,579,2024.0,22595.0,Yes,JUN-2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,
+Peterbilt,579,2024.0,22595.0,Yes,JUN-2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Clear
 Nissan,Leaf,2019.0,25430.0,Yes,JUN-2024,15:51,Santa Clara,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,No Injuries Reported,No,Making U-Turn,No,No,No Passengers in Vehicle,6.0,Clear
 Cruise,AV,2023.0,6808.0,Yes,JUN-2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,Clear, , , , , ,Moderate,Yes,"Other, see Narrative",No,Yes,Yes,0.0,Clear
 Chevrolet,Bolt,2020.0,24248.0,Yes,AUG-2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,22.0,Clear
 Jaguar,I-Pace,2021.0,73354.0,Yes,JUL-2024,20:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
-Peterbilt,579,2024.0,22595.0,Yes,JUN-2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,
+Peterbilt,579,2024.0,22595.0,Yes,JUN-2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Clear
 Chevrolet,Bolt,2020.0,24248.0,Yes,AUG-2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,22.0,Clear
 Cruise,AV,2023.0,6808.0,Yes,JUN-2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,Clear, , , , , ,Moderate,Yes,"Other, see Narrative",No,Yes,Yes,0.0,Clear
 Volkswagen,ID.Buzz,2023.0,4247.0,Yes,JUN-2024,12:54,Austin,TX ,Street,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,9.0,Clear
@@ -266,7 +266,7 @@ Toyota,Highlander,2017.0,80742.0,Yes,JAN-2024,14:19,Paradise,NV ,Intersection,Dr
 Toyota,Highlander,2017.0,90280.0,Yes,JAN-2024,14:12,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Toyota,Highlander,2017.0,90477.0,Yes,JAN-2024,21:13,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,86181.0,Yes,FEB-2024,14:34,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,Minor,Yes,Proceeding Straight,No,No,Yes,7.0,Clear
-Jaguar,I-Pace,2021.0,74662.0,Yes,JAN-2024,17:15,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Cloudy   Rain
+Jaguar,I-Pace,2021.0,74662.0,Yes,JAN-2024,17:15,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Clear
 Jaguar,I-Pace,2021.0,107479.0,Yes,JAN-2024,09:03,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,10.0,Clear
 Jaguar,I-Pace,2021.0,75945.0,Yes,JAN-2024,17:50,Phoenix,CA ,Street,Dry,"Other, see Narrative",35.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,35.0,Cloudy
 Jaguar,I-Pace,2021.0,112503.0,Yes,JAN-2024,12:35,Gilbert,AZ ,Parking Lot,Dry,"Other, see Narrative",5.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,"Other, see Narrative",No,Yes,No Passengers in Vehicle,2.0,Cloudy
@@ -287,8 +287,8 @@ Jaguar,I-Pace,2021.0,59898.0,Yes,DEC-2023,15:23,San Francisco,CA ,Street,Dry,No 
 Jaguar,I-Pace,2021.0,52254.0,Yes,DEC-2023,15:23,San Francisco,CA ,Street,Wet,No Unusual Conditions,20.0,Daylight, , , , ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,3.0,Rain
 Toyota,Camry,2017.0,62068.0,Yes,JAN-2024,16:48,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,50.0,Daylight,Clear, , , , , ,No Injuries Reported,No,Proceeding Straight,No,No,Yes,11.0,Clear
 Jaguar,I-PACE,2021.0,80684.0,Yes,JAN-2024,10:52,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Unknown,Stopped,No,No,Yes,0.0,Cloudy
-Freightliner,Cascadia,2023.0,64838.0,Yes,DEC-2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Cloudy   Rain
-Freightliner,Cascadia,2023.0,64838.0,Yes,DEC-2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Cloudy   Rain
+Freightliner,Cascadia,2023.0,64838.0,Yes,DEC-2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Clear
+Freightliner,Cascadia,2023.0,64838.0,Yes,DEC-2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,65.0,Clear
 Jaguar,I-Pace,2021.0,101858.0,Yes,JAN-2024,03:19,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Proceeding Straight,No,Yes,No Passengers in Vehicle,12.0,Clear
 Jaguar,I-Pace,2021.0,76785.0,Yes,DEC-2023,00:16,Scottsdale,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,"No, see Narrative",2.0,Clear
 Jaguar,I-Pace,2021.0,90362.0,Yes,DEC-2023,06:44,Phoenix,AZ ,Intersection,Wet,No Unusual Conditions,40.0,Daylight, , ,Cloudy, , , ,Minor,Yes,Proceeding Straight,No,Yes,Yes,23.0,Cloudy
@@ -891,20 +891,20 @@ Jaguar,I-Pace,2021.0,29977.0,Yes,SEP-2022,13:13,Phoenix,AZ ,Intersection,Dry,No 
 Jaguar,I-Pace,2021.0,29977.0,Yes,SEP-2022,13:13,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Ligier,EZ10 Gen 3,2019.0,5357.0,Yes,AUG-2022,16:23,Rochester,MN ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,28679.0,Yes,AUG-2022,18:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
-Jaguar,I-Pace,2021.0,44439.0,Yes,AUG-2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,10.0,
+Jaguar,I-Pace,2021.0,44439.0,Yes,AUG-2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,10.0,Clear
 Peterbilt,579 Epiq,2021.0,194446.0,Yes,AUG-2022,18:33,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dawn / Dusk, , ,Cloudy, , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,61.0,Cloudy
 Jaguar,I-Pace,2021.0,10537.0,Yes,AUG-2022,3:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,2.0,Clear
 Jaguar,I-Pace,2021.0,17214.0,Yes,AUG-2022,18:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Kenworth,T680,2022.0,10766.0,Yes,AUG-2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,15.0,Clear
-Jaguar,I-Pace,2021.0,40181.0,Yes,AUG-2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,
+Jaguar,I-Pace,2021.0,40181.0,Yes,AUG-2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,Clear
 Jaguar,I-Pace,2021.0,38984.0,Yes,AUG-2022,11:03,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,45.0,Clear
 Jaguar,I-Pace,2021.0,28679.0,Yes,AUG-2022,18:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
-Jaguar,I-Pace,2021.0,44439.0,Yes,AUG-2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,10.0,
+Jaguar,I-Pace,2021.0,44439.0,Yes,AUG-2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,10.0,Clear
 Peterbilt,579 Epiq,2021.0,194446.0,Yes,AUG-2022,18:33,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dawn / Dusk, , ,Cloudy, , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,61.0,Cloudy
 Jaguar,I-Pace,2021.0,10537.0,Yes,AUG-2022,03:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,2.0,Clear
 Jaguar,I-Pace,2021.0,17214.0,Yes,AUG-2022,18:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,22657.0,Yes,AUG-2022,17:05,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
-Jaguar,I-Pace,2021.0,40181.0,Yes,AUG-2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,
+Jaguar,I-Pace,2021.0,40181.0,Yes,AUG-2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,Clear
 Chrysler,Pacifica,2017.0,99215.0,Yes,AUG-2022,12:23,Chandler,AZ ,Parking Lot,Dry,No Unusual Conditions,10.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,"No, see Narrative",0.0,Clear
 Jaguar,I-Pace,2021.0,38984.0,Yes,AUG-2022,11:03,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,45.0,Clear
 Ford,Escape,2020.0,4783.0,Yes,AUG-2022,12:31,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
@@ -932,18 +932,18 @@ Jaguar,I-Pace,2021.0,33977.0,Yes,AUG-2022,03:09,San Francisco,CA ,Intersection,D
 Ligier,EZ10 Gen 3,2019.0,5357.0,Yes,AUG-2022,16:23,Rochester,MN ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,0.0,Clear
 Kenworth,T680,2022.0,10766.0,Yes,AUG-2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,15.0,Clear
 Kenworth Motor Truck Co,T680,2022.0,10766.0,Yes,AUG-2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,15.0,Clear
-Jaguar,I-Pace,2021.0,21943.0,Yes,JUL-2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,
+Jaguar,I-Pace,2021.0,21943.0,Yes,JUL-2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,23628.0,Yes,JUL-2022,06:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,Clear, , , , , ,Minor,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,34308.0,Yes,JUL-2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,9.0,Clear
 Jaguar,I-Pace,2021.0,30770.0,Yes,JUL-2022,02:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Making Left Turn,No,No,Yes,12.0,Clear
-Chrysler,Pacifica,2017.0,23524.0,Yes,JUL-2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,"No, see Narrative",0.0,
+Chrysler,Pacifica,2017.0,23524.0,Yes,JUL-2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,"No, see Narrative",0.0,Clear
 Chrysler,Pacifica,2017.0,52590.0,Yes,AUG-2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Lane / Road Departure,No,Yes,Yes,18.0,Cloudy
 Cruise,AV,2020.0,42248.0,Yes,JUL-2022,22:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,No Passengers in Vehicle,6.0,Clear
 Cruise,AV,2020.0,46105.0,Yes,JUL-2022,1:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,No Passengers in Vehicle,12.0,Clear
 Cruise,AV,2022.0,2043.0,Yes,JUL-2022,2:57,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,No Passengers in Vehicle,0.0,Clear
 Cruise,AV,2020.0,36885.0,Yes,JUL-2022,00:27,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted, , , , ,Rain, ,No Injuries Reported,Yes,Stopped,No,No,No Passengers in Vehicle,0.0,Rain
 Chrysler,Pacifica,2017.0,52590.0,Yes,AUG-2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Lane / Road Departure,No,Yes,Yes,18.0,Cloudy
-Chrysler,Pacifica,2017.0,23524.0,Yes,JUL-2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,"No, see Narrative",0.0,
+Chrysler,Pacifica,2017.0,23524.0,Yes,JUL-2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,"No, see Narrative",0.0,Clear
 Jaguar,I-Pace,2021.0,30770.0,Yes,JUL-2022,02:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Making Left Turn,No,No,Yes,12.0,Clear
 Lexus,RX450H,2020.0,19835.0,Yes,MAY-2022,16:11,Arlington,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,11.0,Clear
 Cruise,AV,2020.0,36885.0,Yes,JUL-2022,00:27,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted, , , , ,Rain, ,No Injuries Reported,Yes,Stopped,No,No,No Passengers in Vehicle,0.0,Rain
@@ -952,7 +952,7 @@ Cruise,AV,2020.0,42248.0,Yes,JUL-2022,22:46,San Francisco,CA ,Intersection,Dry,N
 Cruise,AV,2022.0,2043.0,Yes,JUL-2022,2:57,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,No Passengers in Vehicle,0.0,Clear
 Jaguar,I-Pace,2021.0,34308.0,Yes,JUL-2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,9.0,Clear
 Jaguar,I-Pace,2021.0,23628.0,Yes,JUL-2022,06:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,Clear, , , , , ,Minor,Yes,Stopped,No,No,Yes,0.0,Clear
-Jaguar,I-Pace,2021.0,21943.0,Yes,JUL-2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,
+Jaguar,I-Pace,2021.0,21943.0,Yes,JUL-2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight, , , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,33977.0,Yes,AUG-2022,3:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,1.0,Clear
 Toyota,Highlander,2016.0,41402.0,Yes,JUL-2022,14:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,Unknown,Yes,Proceeding Straight,No,No,Yes,1.0,Clear
 Jaguar,I-Pace,2021.0,33977.0,Yes,AUG-2022,03:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,1.0,Clear
@@ -1068,7 +1068,7 @@ Jaguar,I-Pace,2021.0,11506.0,Yes,MAR-2022,07:35,San Francisco,CA ,Intersection,D
 Jaguar,I-Pace,2021.0,18215.0,Yes,APR-2022,19:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Ford,Fusion,2019.0,11510.0,Yes,MAR-2022,12:50,Miami,FL ,Intersection,Wet,No Unusual Conditions,30.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
 Toyota,Highlander,2016.0,57678.0,Yes,MAR-2022,08:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,Minor,Yes,Stopped,No,No,Yes,1.0,Clear
-Hyundai,Kona EV,2019.0,54796.0,Yes,MAR-2022,11:30,Tustin,CA ,Street,Wet,"Other, see Narrative",45.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,Cloudy   Rain
+Hyundai,Kona EV,2019.0,54796.0,Yes,MAR-2022,11:30,Tustin,CA ,Street,Wet,"Other, see Narrative",45.0,Daylight, , ,Cloudy, ,Rain, ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,23.0,Clear
 Ford,Fusion,2019.0,11510.0,Yes,MAR-2022,12:50,Miami,FL ,Intersection,Wet,No Unusual Conditions,30.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
 Jaguar,I-Pace,2021.0,20050.0,Yes,APR-2022,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,Minor,Yes,Proceeding Straight,No,Yes,Yes,0.0,Clear
 Jeep,Grand Cherokee,2022.0,6958.0,Yes,APR-2022,03:30,Saint Clair,MI ,Unknown,Dry,No Unusual Conditions,55.0,Dark - Unknown Lighting,Clear, , , , , ,No Injuries Reported,Yes,Unknown,No,Yes,Yes,50.0,Clear
@@ -1080,7 +1080,7 @@ Cruise,AV,2020.0,43082.0,Yes,MAR-2022,12:26,San Francisco,CA ,Street,Dry,No Unus
 Jaguar,I-Pace,2021.0,18215.0,Yes,APR-2022,19:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jeep,Grand Cherokee,2022.0,6958.0,Yes,APR-2022,03:30,Saint Clair,MI ,Unknown,Dry,No Unusual Conditions,55.0,Dark - Unknown Lighting,Clear, , , , , ,No Injuries Reported,Yes,Unknown,No,Yes,Yes,50.0,Clear
 Cruise,AV,2020.0,39342.0,Yes,MAR-2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Clear
-Jaguar,I-Pace,2021.0,25407.0,Yes,MAR-2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,9.0,
+Jaguar,I-Pace,2021.0,25407.0,Yes,MAR-2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,9.0,Clear
 Jaguar,I-Pace,2021.0,13088.0,Yes,MAR-2022,14:57,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Cloudy
 Cruise,AV,2020.0,39342.0,Yes,MAR-2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Clear
 Cruise,AV,2022.0,10025.0,Yes,MAR-2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight, , ,Cloudy, , , ,Serious,Unknown,Proceeding Straight,No,No,Yes,4.0,Cloudy
@@ -1088,7 +1088,7 @@ Cruise,AV,2022.0,10025.0,Yes,MAR-2022,13:24,San Francisco,CA ,Street,Dry,No Unus
 Jaguar,I-Pace,2021.0,10576.0,Yes,APR-2022,02:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,20.0,Clear
 Jaguar,I-Pace,2021.0,25713.0,Yes,MAR-2022,11:07,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,4.0,Clear
 Toyota,Highlander,2016.0,72592.0,Yes,MAR-2022,15:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,Clear, , , , , ,Minor,Unknown,Proceeding Straight,No,No,Yes,2.0,Clear
-Jaguar,I-Pace,2021.0,25407.0,Yes,MAR-2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,9.0,
+Jaguar,I-Pace,2021.0,25407.0,Yes,MAR-2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,9.0,Clear
 Cruise,AV,2020.0,39342.0,Yes,MAR-2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Clear
 Cruise,AV,2020.0,39342.0,Yes,MAR-2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,No Passengers in Vehicle,0.0,Clear
 Jaguar,I-Pace,2021.0,13088.0,Yes,MAR-2022,14:57,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Cloudy
@@ -1170,29 +1170,29 @@ Chrysler,Pacifica,2017.0,20839.0,Yes,NOV-2021,18:47,Chandler,AZ ,Intersection,Dr
 Jaguar,I-Pace,2021.0,4737.0,Yes,NOV-2021,11:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,11749.0,Yes,NOV-2021,13:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,9742.0,Yes,NOV-2021,01:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
-Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,
+Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,Clear
 Jaguar,I-Pace,2021.0,13034.0,Yes,NOV-2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,Cloudy
 Chevrolet,Bolt,2020.0,31487.0,Yes,NOV-2021,15:05,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,13034.0,Yes,NOV-2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,15812.0,Yes,NOV-2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
-Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,
+Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,Clear
 Jaguar,I-Pace,2021.0,23878.0,Yes,NOV-2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
-Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,
+Jaguar,I-Pace,2021.0,17392.0,Yes,DEC-2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight, , , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,8.0,Clear
 Jaguar,I-Pace,2021.0,23878.0,Yes,NOV-2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,13034.0,Yes,NOV-2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,15812.0,Yes,NOV-2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,15812.0,Yes,NOV-2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,13034.0,Yes,NOV-2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Hyundai,Kona EV,2021.0,2550.0,Yes,OCT-2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Changing Lanes,No,Yes,Yes,35.0,Clear
-Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,
+Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,23878.0,Yes,NOV-2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,23878.0,Yes,NOV-2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,Clear, , , , , ,Unknown,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Chevrolet,Bolt,2020.0,32552.0,Yes,NOV-2021,16:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,Yes,Yes,11.0,Clear
 Hyundai,Kona EV,2021.0,2550.0,Yes,OCT-2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Changing Lanes,No,Yes,Yes,35.0,Clear
-Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,
-Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,
+Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
+Jaguar,I-Pace,2021.0,11661.0,Yes,NOV-2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted, , , , , , ,No Injuries Reported,Yes,Stopped,No,Yes,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,10606.0,Yes,NOV-2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
 Jaguar,I-Pace,2021.0,10606.0,Yes,NOV-2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight, , ,Cloudy, , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Cloudy
 Jaguar,I-Pace,2021.0,9739.0,Yes,OCT-2021,21:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Making Left Turn,No,No,Yes,0.0,Clear
@@ -1201,7 +1201,7 @@ Jaguar,I-Pace,2021.0,11323.0,Yes,OCT-2021,12:57,San Francisco,CA ,Intersection,D
 Jaguar,I-Pace,2021.0,13541.0,Yes,OCT-2021,18:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
 Chrysler,Pacifica,2017.0,20619.0,Yes,OCT-2021,13:48,Mesa,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Parked,No,No,No Passengers in Vehicle,0.0,Clear
 Jaguar,I-Pace,2021.0,11323.0,Yes,OCT-2021,12:57,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Proceeding Straight,No,No,Yes,1.0,Clear
-Toyota,Highlander,2016.0,47537.0,Yes,OCT-2021,15:05,San Francisco,CA ,Intersection,Unknown,No Unusual Conditions,25.0,Daylight,Clear, ,Cloudy, , , ,No Injuries Reported,No,Proceeding Straight,No,No,Yes,14.0,Clear   Cloudy
+Toyota,Highlander,2016.0,47537.0,Yes,OCT-2021,15:05,San Francisco,CA ,Intersection,Unknown,No Unusual Conditions,25.0,Daylight,Clear, ,Cloudy, , , ,No Injuries Reported,No,Proceeding Straight,No,No,Yes,14.0,Clear
 Jaguar,I-Pace,2021.0,9739.0,Yes,OCT-2021,21:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,Clear, , , , , ,No Injuries Reported,Yes,Making Left Turn,No,No,Yes,0.0,Clear
 Jaguar,I-Pace,2021.0,13485.0,Yes,OCT-2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,Clear, , , , , ,No Injuries Reported,Yes,Changing Lanes,No,No,Yes,7.0,Clear
 Jaguar,I-Pace,2021.0,13541.0,Yes,OCT-2021,18:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,Clear, , , , , ,No Injuries Reported,Yes,Stopped,No,No,Yes,0.0,Clear
