@@ -12,6 +12,14 @@ modelHelper = ModelHelper()
 def home_page():
     return render_template("home.html")
 
+@app.route("/tableau1")
+def tableau1():
+    return render_template("tableau1.html")
+
+@app.route("/tableau2")
+def tableau2():
+    return render_template("tableau2.html")
+
 @app.route("/about_us")
 def about_us():
     return render_template("about_us.html")
