@@ -12,6 +12,10 @@ modelHelper = ModelHelper()
 def home_page():
     return render_template("home.html")
 
+@app.route("/machine_learning")
+def machine_learning():
+    return render_template("machine_learning.html")
+
 @app.route("/tableau1")
 def tableau1():
     return render_template("tableau1.html")
