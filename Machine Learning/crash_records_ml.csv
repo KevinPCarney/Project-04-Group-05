@@ -1,0 +1,1363 @@
+Make,Model,Model Year,Incident Date,Incident Time (24:00),City,State,Roadway Type,Roadway Surface,Roadway Description,Posted Speed Limit (MPH),Lighting,Clear,Snow,Cloudy,Fog/Smoke,Rain,Severe Wind,Injuries,Passengers Belted
+Jaguar,I-Pace,2021,January 2024,12:04,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2024,July 2024,04:58,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,11:29,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,18:16,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,11:06,Austin,TX ,Street,Dry,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,16:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,23:59,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,12:18,Los Angeles,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,11:36,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,16:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,09:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,09:45,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,20:58,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,15:40,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,14:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,16:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,18:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,15:09,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,08:18,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Highlander,2019,July 2024,18:43,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,16:00,Chandler,AZ ,Parking Lot,Dry,No Unusual Conditions,10.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2024,20:27,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,5.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Highlander,2019,July 2024,15:25,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,July 2024,17:29,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,August 2024,17:53,Spring Valley,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2024,00:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2024,18:25,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2024,12:24,Scottsdale,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2024,10:03,Scottsdale,AZ ,Street,Dry,"Other, see Narrative",45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2024,10:03,Scottsdale,AZ ,Street,Dry,"Other, see Narrative",45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2024,13:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,August 2024,14:21,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Sienna,2022,July 2024,12:57,Miami,FL ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Siennaa,2022,July 2024,08:40,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,August 2024,17:53,Spring Valley,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2024,03:07,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2024,16:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,18:25,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,04:28,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,July 2024,22:53,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Toyota,Highlander,2019,July 2024,11:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,July 2024,03:07,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,July 2024,17:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2024,15:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,13:26,Mountain View,CA ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,13:26,Mountain View,CA ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Sienna,2022,July 2024,13:57,Miami,FL ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,22:53,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,July 2024,20:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Toyota,Highlander,2019,July 2024,11:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2024,July 2024,17:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2024,00:16,Scottsdale,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2024,15:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,02:35,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2024,12:59,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2024,May 2024,11:45,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2024,16:54,Marina Del Rey,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,0,0,1,0,0,0,0,1
+Local Motors (LOCM),Olli 2.0 Shuttle,2020,June 2024,13:57,Jacksonville,FL ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,11:54,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,June 2024,13:24,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,00:07,Santa Monica,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,11:18,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,May 2024,11:45,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2024,June 2024,20:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,16:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Vinfast,VF8,2024,,,Valencia,CA ,Intersection,Dry,Missing / Degraded Markings,,Dawn / Dusk,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,11:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,22:53,Chandler,AZ ,Street,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,08:47,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,21:20,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Lucid,Air Touring,2023,June 2023,14:59,Foster,RI ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2024,18:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,12:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,16:49,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,15:25,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,12:52,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,13:33,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,23:49,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,13:12,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,16:54,Marina Del Rey,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,10:38,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+Local Motors,Olli 2.0,9999,June 2024,13:51,Jacksonville,FL ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,22:52,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,04:37,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Peterbilt,579,2024,June 2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,0,0,0,0,0,1
+Nissan,Leaf,2019,June 2024,15:51,Santa Clara,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,June 2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,1,0,0,0,0,0,1,1
+Chevrolet,Bolt,2020,August 2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,20:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Peterbilt,579,2024,June 2024,23:14,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,August 2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,1,0,0,0,0,0,1,1
+Volkswagen,ID.Buzz,2023,June 2024,12:54,Austin,TX ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,July 2024,20:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,21:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2024,12:59,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,June 2024,00:21,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,21:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,07:12,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,00:33,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Prius,2022,June 2024,17:10,Houston,TX ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,18:34,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,23:16,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,11:45,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,12:58,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,June 2024,23:31,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,June 2024,01:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,14:56,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,May 2024,18:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,21:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,22:54,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,11:02,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,23:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,10:41,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,11:18,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,14:49,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,21:13,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,08:33,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,21:11,Los Angeles,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,11:45,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,21:11,Los Angeles,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,13:09,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,11:02,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2024,21:04,Tempe,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,00:23,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,23:16,San Francisco,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,08:25,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,22:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,18:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Nissan,Leaf,2023,June 2024,10:33,San Jose,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Volkswagen,ID.Buzz,2023,May 2024,14:23,Austin,TX ,Parking Lot,Dry,No Unusual Conditions,,Daylight,0,0,0,0,0,0,0,1
+Peterbilt,579,2024,June 2024,13:19,SPRING,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Peterbilt,579,2024,May 2024,03:09,Rice,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Toyota,Prius,2022,May 2024,12:04,Houston,TX ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579,2024,June 2024,13:19,SPRING,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Peterbilt,579,2024,May 2024,03:09,RICE,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Lincoln,MKZ,2019,May 2024,15:25,Fremont,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2024,18:00,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,12:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,15:34,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Sienna,2022,May 2024,17:05,Miami,FL ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,1,0,0,0,0,0,1,1
+Cruise,AV,2023,June 2024,04:55,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dawn / Dusk,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,June 2024,01:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,June 2024,12:58,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2024,18:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Zoox,sedan,2023,May 2024,16:02,Foster City,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,14:13,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,10.0,Daylight,1,0,0,0,0,0,0,0
+KIA,SPORTAGE,2023,April 2024,02:50,ST. CLAIR TOWNSHIP,MI ,Street,Dry,Unknown,55.0,Dark - Not Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2024,22:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+KIA,SPORTAGE,2023,April 2024,02:50,ST. CLAIR TOWNSHIP,MI ,Street,Dry,Unknown,55.0,Dark - Not Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,May 2024,14:13,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,10.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,11:47,Phoenix,AZ ,Street,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,03:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,00:58,Los Angeles,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,0,0,1,0,0,0,1,1
+Toyota,Prius,2022,May 2024,15:45,Palo Alto,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,March 2024,07:18,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,1,0
+Jaguar,I-Pace,2021,May 2024,12:47,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,16:12,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,21:34,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2024,11:02,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,10:14,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,12:47,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,23:07,Santa Monica,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,April 2024,13:59,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,April 2024,18:01,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,10:14,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,April 2024,19:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,April 2024,20:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,12:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,14:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,15.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2024,15:05,Chandler,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,April 2024,06:49,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2024,12:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,May 2024,06:42,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Sienna,2022,April 2024,11:35,Miami,FL ,Intersection,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579,2024,April 2024,10:56,Conroe,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Volkswagen,ID.Buzz,2023,April 2024,10:20,Austin,TX ,Street,Wet,No Unusual Conditions,35.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,May 2024,00:58,Los Angeles,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,0,0,1,0,0,0,1,1
+Peterbilt,Peterbilt 579,2024,April 2024,10:56,Conroe,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,00:58,Los Angeles,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,0,0,1,0,0,0,1,1
+Toyota,Highlander,2017,April 2024,13:49,Las Vegas,NV ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2024,09:06,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,16:12,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Highlander,2019,April 2024,12:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2024,14:56,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,May 2024,19:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,April 2024,16:54,Spring Valley,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,January 2023,17:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,12:04,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,06:43,Tempe,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2019,April 2024,12:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2019,April 2024,16:54,Spring Valley,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2024,01:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2024,15:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,0,0,1,0,0,0,0,1
+Peterbilt,579,2023,March 2024,13:52,Barstow,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,March 2024,10:03,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,March 2024,15:12,San Francisco,CA ,Street,Wet,No Unusual Conditions,30.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,March 2024,07:30,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,March 2024,15:12,San Francisco,CA ,Street,Wet,No Unusual Conditions,30.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,March 2024,21:16,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,12:06,Los Angeles,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,March 2024,10:03,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2024,14:42,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2024,18:01,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,21:49,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2024,19:45,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,20:58,Mesa,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,March 2024,16:52,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,March 2024,00:40,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,07:30,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2024,March 2024,21:42,Chandler,AZ ,Street,Dry,Work Zone,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,15:32,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2024,02:08,Tempe,AZ ,Street,Wet,No Unusual Conditions,35.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Jaguar,I-Pace,2024,March 2024,20:00,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,10.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Jaguar,I-Pace,2024,March 2024,13:13,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2024,23:15,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Peterbilt,579,2023,March 2024,13:52,Barstow,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Prius,2022,March 2024,20:20,Mountain View,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,March 2024,14:45,Paradise,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,March 2024,09:44,Las Vegas,NV ,Street,Wet,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,April 2024,06:59,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,15:07,Scottsdale,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2024,01:33,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Jaguar,I-Pace,2021,March 2024,16:25,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,1,1
+Hyundai,Ioniq 5,2024,February 2024,14:30,Las Vegas,NV ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,16:58,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,16:58,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,March 2024,07:38,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,1,0
+Jaguar,I-Pace,2021,March 2024,01:03,San Francisco,CA ,Street,Wet,No Unusual Conditions,30.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Toyota,Sienna,2022,February 2024,11:40,Ann Arbor,MI ,Street,Snow / Slush / Ice,No Unusual Conditions,35.0,Daylight,0,1,0,0,0,0,0,1
+Hyundai,IONIQ 5,2024,February 2024,14:30,Las Vegas,NV ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Volkswagen,ID.Buzz,2023,February 2024,11:20,Austin,TX ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,21:18,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,February 2024,13:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,09:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,01:42,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,18:41,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,01:03,San Francisco,CA ,Street,Wet,No Unusual Conditions,30.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,20:55,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,16:58,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,22:01,Los Angeles,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Peterbilt,579,2023,February 2024,14:03,Streetman,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Toyota,Highlander,2019,February 2024,11:00,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,February 2024,13:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,February 2024,16:29,Spring Valley,NV ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2024,04:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Hyundai,Ioniq 5,2024,February 2024,14:30,Las Vegas,NV ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,06:43,Tempe,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,February 2024,20:08,Tempe,AZ ,Highway / Freeway,Dry,Work Zone,65.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,February 2024,20:08,Tempe,AZ ,Highway / Freeway,Dry,Work Zone,65.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,February 2024,13:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2024,February 2024,17:01,Austin,TX ,Intersection,Wet,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,13:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,14:34,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2024,February 2024,17:01,Austin,TX ,Intersection,Wet,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,03:07,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2024,February 2024,17:01,Austin,TX ,Intersection,Wet,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,03:19,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,January 2024,00:41,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Jaguar,I-Pace,2021,January 2024,20:11,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,15:51,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,1,0
+Jaguar,I-Pace,2021,January 2024,07:41,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,08:57,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2024,12:04,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,January 2024,08:24,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,03:07,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Peterbilt,579,2023,February 2024,14:03,Streetman,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Nissan,LEAF,2023,January 2024,12:56,San Jose,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Volkswagen,ID.Buzz,2023,January 2024,09:00,Austin,TX ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Prius,2022,January 2024,14:30,Mountain View,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Prius,2022,January 2024,19:24,Palo Alto,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight,0,0,0,0,1,0,0,1
+Toyota,Highlander,2017,January 2024,14:19,Paradise,NV ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,January 2024,14:12,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,January 2024,21:13,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2024,14:34,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,January 2024,17:15,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Daylight,0,0,1,0,1,0,0,0
+Jaguar,I-Pace,2021,January 2024,09:03,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,17:50,Phoenix,CA ,Street,Dry,"Other, see Narrative",35.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2024,12:35,Gilbert,AZ ,Parking Lot,Dry,"Other, see Narrative",5.0,Daylight,0,0,1,0,0,0,0,0
+Hyundai,Sonata,2020,October 2023,12:50,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+,,9999,,,,,,,,,,0,0,0,0,0,0,0,1
+Toyota,Prius,2022,January 2024,10:49,Houston,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,January 2024,10:52,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,22:23,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,23:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,16:32,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,17:09,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,14:00,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,22:48,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,12:18,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,13:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,10:25,Phoenix,AZ ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,19:02,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,22:23,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,15:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,15:23,San Francisco,CA ,Street,Wet,No Unusual Conditions,20.0,Daylight,0,0,0,0,1,0,0,1
+Toyota,Camry,2017,January 2024,16:48,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,50.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,January 2024,10:52,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Freightliner,Cascadia,2023,December 2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight,0,0,1,0,1,0,0,1
+Freightliner,Cascadia,2023,December 2023,14:35,Vega,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight,0,0,1,0,1,0,0,1
+Jaguar,I-Pace,2021,January 2024,03:19,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,December 2023,00:16,Scottsdale,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2023,06:44,Phoenix,AZ ,Intersection,Wet,No Unusual Conditions,40.0,Daylight,0,0,1,0,0,0,1,1
+Lexus,RX450H,2020,December 2023,16:00,Las Vegas,NV ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,15:38,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2023,16:51,Scottsdale,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,December 2023,09:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,December 2023,10:27,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2023,15:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2023,19:59,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,04:06,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,15:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,19:59,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,21:36,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Peterbilt,579,2023,November 2023,09:56,Ranger,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,November 2023,04:06,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,15:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,10:09,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,0
+Peterbilt,579,2023,November 2023,09:56,Ranger,TX ,Highway / Freeway,Wet,No Unusual Conditions,75.0,Daylight,0,0,0,0,1,0,0,1
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Navya,ARMA,2020,November 2023,11:02,Orlando,FL ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,IONIQ 5,2022,December 2023,13:24,Las Vegas,NV ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Ioniq 5,2022,December 2023,13:24,Las Vegas,NV ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,17:40,Scottsdale,AZ ,Intersection,Wet,No Unusual Conditions,45.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Lincoln,MKZ Hybrid,2016,October 2023,12:01,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lincoln,MKZ Hybrid,2017,September 2023,12:25,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Chrysler,Pacifica,2020,June 2023,15:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,07:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2023,October 2023,11:04,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,October 2023,17:14,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2023,October 2023,03:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,October 2023,07:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,18:02,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,October 2023,16:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,17:42,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,08:03,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Sienna,2021,October 2023,10:03,Grand Rapids,MN ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2023,September 2023,22:36,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,22:36,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,22:19,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,October 2023,11:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,02:24,Houston,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,05:01,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Highlander,2017,October 2023,20:12,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,October 2023,09:53,Seattle,WA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Crui9se,AV,2022,October 2023,01:29,Santa Monica,CA ,Intersection,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,23:40,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,08:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,01:51,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2023,22:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,October 2023,01:29,Santa Monica,CA ,Intersection,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,23:40,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,08:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,01:51,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,22:19,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,October 2023,11:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,02:24,Houston,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,05:01,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Highlander,2017,November 2023,22:16,Seattle,WA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Highlander,2017,November 2023,22:16,Seattle,WA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Navya,ARMA Autonom,9999,November 2023,11:02,Orlando,FL ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2023,22:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,October 2023,19:18,Chandler,AZ ,Street,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,1,1
+KENWORTH,T680,2019,October 2023,15:08,Fort Worth,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Kenworth Motor Truck Co,T680,2019,October 2023,15:08,Fort Worth,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,13:29,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,09:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,09:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,19:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,October 2023,19:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,October 2023,18:53,Phoenix,AZ ,Street,Dry,Work Zone,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2023,October 2023,08:59,Scottsdale,AZ ,Street,Dry,"Other, see Narrative",45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,September 2023,21:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2023,21:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,09:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,16:31,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,19:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,October 2023,09:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,October 2023,19:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,October 2023,16:31,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2023,00:05,Tempe,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,21:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2023,10:25,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,01:40,Scottsdale,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2023,19:49,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,20:20,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,09:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,15:07,Tempe,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,19:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,22:48,San Francisco,CA ,Street,Wet,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2023,00:05,Tempe,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Nissan,Leaf,2023,September 2023,13:54,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,09:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,09:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,September 2023,08:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,8AV,2020,September 2023,09:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,22:36,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,23:44,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Highlander,2017,September 2023,15:20,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lincoln,MKZ,2019,September 2023,17:02,Milpitas,CA ,Highway / Freeway,Dry,"Other, see Narrative",65.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,23:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,10:54,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,04:59,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2023,00:05,Tempe,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2022,September 2023,17:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,23:02,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,22:16,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,08:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2020,September 2023,09:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,22:36,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,23:44,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,23:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,10:54,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,04:59,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2023,00:05,Tempe,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2022,September 2023,17:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,23:02,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,22:16,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,October 2023,17:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,September 2023,19:12,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,October 2023,21:29,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,September 2023,09:20,Houston,TX ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2023,17:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,09:20,Houston,TX ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX 450h,2017,September 2023,11:33,Emeryville,CA ,Highway / Freeway,Dry,No Unusual Conditions,55.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,September 2023,20:14,Houston,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,20:14,Houston,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,03:49,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,17:02,Tempe,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,03:49,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Navya,Arma Autonom DL,9999,August 2023,13:54,Orlando,FL ,Street,Dry,"Other, see Narrative",25.0,Daylight,1,0,0,0,0,0,0,1
+Navya,Arma Autonom DL,9999,August 2023,17:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2023,20:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2023,18:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2023,20:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2023,16:38,Santa Monica,CA ,Traffic Circle,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,21:55,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,17:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,16:45,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,13:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,18:11,San Francisco,CA ,Street,Dry,Traffic Incident,0.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,21:01,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,19:38,Los Angeles,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,19:23,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,15:36,Mesa,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,22:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2023,19:12,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,04:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Cruise,AV,2023,August 2023,08:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Cruise,AV,2022,August 2023,16:31,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,22:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,16:45,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,11:59,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:21,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,10:37,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,23:34,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,22:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,23:36,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,09:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,13:47,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,16:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,20:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,16:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Mercedes-Benz,S 580 4Matic,2021,August 2023,13:40,Los Angeles,CA ,Highway / Freeway,Dry,No Unusual Conditions,,Daylight,1,0,1,0,0,0,1,1
+Cruise,AV,2023,August 2023,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,02:35,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,August 2023,01:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,September 2023,21:42,Houston,TX ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,04:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,1
+Cruise,AV,2022,August 2023,16:31,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,22:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,11:59,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,16:45,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,08:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,10:37,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,22:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:21,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,23:36,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,23:34,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,16:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,13:47,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,20:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,09:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,September 2023,02:35,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Sienna,2021,August 2023,10:10,Arlington,TX ,Street,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,September 2023,21:42,Houston,TX ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,August 2023,01:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,00:39,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,20:56,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:39,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,01:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,21:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,Origin,2024,August 2023,00:36,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,01:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,21:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,Origin,2024,August 2023,00:36,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2023,21:37,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2022,August 2023,01:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2022,August 2023,01:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,08:45,San Frabcisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,08:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Navya,ARMA Autonom DL,9999,August 2023,12:54,Orlando,FL ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Navya,ARMA Autonom DL,9999,August 2023,12:54,Orlando,FL ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,00:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,00:12,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,00:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,00:12,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Camry,2017,August 2023,14:20,Sunol,CA ,Highway / Freeway,Dry,Traffic Incident,65.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2023,18:38,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,07:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Cruise,AV,2023,August 2023,08:45,San Frabcisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2023,21:37,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,August 2023,08:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,August 2023,07:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2023,13:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,10:13,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,14:57,Santa Monica,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,14:57,Santa Monica,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,11:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,09:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2023,09:02,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2023,10:13,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,13:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Peterbilt,579m,2022,July 2023,09:35,BUFFALO,TX ,Highway / Freeway,Dry,No Unusual Conditions,70.0,Daylight,1,0,0,0,0,0,0,1
+Nissan,LEAF,2023,August 2023,13:45,San Francisco,CA ,Street,Dry,No Unusual Conditions,0.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,22:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,02:29,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,16:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,10:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,00:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,22:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,20:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,01:52,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,11:03,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,11:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,11:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,11:03,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,22:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,02:29,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,16:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,10:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,00:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,22:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,20:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,01:52,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+International,LT625,2022,December 2022,08:20,Natural Bridge,VA ,Highway / Freeway,Dry,No Unusual Conditions,70.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,August 2023,09:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Toyota,Sienna,2021,July 2023,17:25,Grand Rapids,MN ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,August 2023,09:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Cruise,AV,2022,July 2023,23:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,06:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2022,July 2023,23:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,06:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,July 2023,15:34,Tempe,AZ ,Street,Dry,"Other, see Narrative",40.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,July 2023,14:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,05:35,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2023,15:04,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,15:04,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,July 2023,14:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,05:35,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,July 2023,20:38,Tempe,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,July 2023,01:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,July 2023,20:38,Tempe,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,July 2023,01:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,19:50,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,06:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,July 2023,06:41,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2023,July 2023,19:50,Austin,TX ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,23:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,July 2023,23:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,July 2023,15:08,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,15:08,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,21:39,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,21:39,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,07:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,21:19,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2023,17:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,15:44,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2023,12:35,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2023,June 2023,21:04,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,June 2023,23:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2023,00:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,June 2023,23:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2022,June 2023,22:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,June 2023,09:36,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Daylight,0,0,1,0,0,0,1,0
+Hyundai,Ioniq 5,2021,June 2023,21:42,Las Vegas,NV ,Intersection,Dry,Traffic Incident,15.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2023,18:13,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Hyundai,IONIQ 5,2021,June 2023,21:42,Las Vegas,NV ,Intersection,Dry,Traffic Incident,15.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,June 2023,21:04,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2023,June 2023,23:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2023,00:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,June 2023,23:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2022,June 2023,22:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,June 2023,09:36,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Daylight,0,0,1,0,0,0,0,0
+Hyundai,Ioniq 5,2020,June 2023,21:42,Las Vegas,NV ,Intersection,Dry,Traffic Incident,15.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,July 2023,22:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,July 2023,22:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2023,15:08,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2023,15:08,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Lucid,Air Touring,2023,June 2023,14:59,Foster,RI ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2023,23:18,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2023,23:18,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2023,23:18,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2023,20:58,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2023,20:58,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2023,22:37,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,June 2023,22:37,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Lucid,Air Touring,2023,June 2023,14:59,Foster,RI ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2022,June 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,1,0
+Cruise,AV,2022,June 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,1,0
+Jaguar,I-Pace,2021,May 2023,10:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,23:30,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,21:29,Mesa,AZ ,Highway / Freeway,Dry,Traffic Incident,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Lucid,Air Touring,2023,June 2023,14:59,Foster,RI ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2023,10:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,09:42,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2023,23:30,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,20:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Dark - Lighted,0,0,1,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2023,21:29,Mesa,AZ ,Highway / Freeway,Dry,Traffic Incident,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,13:37,Phoenix,AZ ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,0
+NISSAN,LEAF,2019,June 2023,14:06,san jose,CA ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,May 2023,00:14,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,May 2023,23:12,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,May 2023,00:35,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,00:35,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,03:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,00:14,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,May 2023,23:12,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,May 2023,00:35,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,00:35,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,03:34,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Hyundai,Kona EV,2021,June 2023,11:39,Fremont,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,January 2023,15:00,Las Vegas,NV ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,May 2023,11:40,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,May 2023,10:52,Paradise,NV ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-PACE,2021,June 2023,13:17,Phoenix,AZ ,Highway / Freeway,Dry,Work Zone,65.0,Daylight,1,0,0,0,0,0,1,1
+Lucid,Air Touring,2023,June 2023,14:59,Foster,RI ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2022,June 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,1,0
+Cruise,AV,2022,June 2023,22:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,1,0,0,0,1,0
+Cruise,AV,2020,June 2023,04:31,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-PACE,2021,June 2023,13:17,Phoenix,AZ ,Highway / Freeway,Dry,Work Zone,65.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2023,04:31,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-PACE,2021,June 2023,13:17,Phoenix,AZ ,Highway / Freeway,Dry,Work Zone,65.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2022,May 2023,21:24,San Drancisco,CA ,Street,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Sienna,2021,May 2023,16:40,Grand Rapids,MN ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,May 2023,21:24,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2023,17:54,Phoenix,AZ ,Parking Lot,Dry,"Other, see Narrative",15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2023,17:34,Phoenix,AZ ,Parking Lot,Dry,"Other, see Narrative",15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,15:27,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-PACE,2021,April 2023,22:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,April 2023,17:29,Santa Monica,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,10:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2020,April 2023,14:58,Mesa,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Nissan,Leaf,2023,May 2023,11:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,10:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-PACE,2021,April 2023,13:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-PACE,2021,April 2023,17:29,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-PACE,2021,April 2023,08:02,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,April 2023,15:43,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,April 2023,17:29,Santa Monica,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,April 2023,22:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Hyundai,Santa Fe,2023,April 2023,15:45,Gahanna,OH ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,April 2023,21:59,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,20:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,23:35,San Francisco,CA ,Intersection,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,00:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,April 2023,14:58,Mesa,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,April 2023,21:59,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,20:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,23:35,San Francisco,CA ,Intersection,Dry,"Other, see Narrative",25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,00:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,May 2023,09:32,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2023,May 2023,09:32,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2023,15:27,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,09:32,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,May 2023,09:32,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,May 2023,10:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2023,10:32,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,May 2023,02:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Lexus,RX450h,2020,April 2023,16:16,Ann Arbor,MI ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Santa Fe,2023,April 2023,15:45,Gahanna,OH ,Highway / Freeway,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,June 2022,13:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,June 2022,10:45,San Mateo,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Highlander,2016,February 2022,08:40,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,May 2022,13:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,July 2022,14:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,August 2022,17:21,Menlo Park,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,February 2023,14:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,February 2023,13:27,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,February 2023,18:06,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,April 2023,11:19,San Francisco,CA ,Intersection,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,April 2023,04:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,04:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,April 2023,10:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,13:35,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,10:43,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,21:28,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,March 2023,02:19,San Bruno,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,17:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,19:00,Tempe,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2023,17:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,02:19,San Bruno,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,21:28,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,March 2023,19:00,Tempe,AZ ,Street,Dry,No Unusual Conditions,40.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2023,13:35,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,10:43,Los Angeles,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,0,0,1,0,0,0,0,1
+Nissan,Leaf SV Plus,2023,December 2022,16:31,Las Vegas,NV ,Intersection,Dry,No Unusual Conditions,30.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,17:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,02:19,San Bruno,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,21:28,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,March 2023,20:26,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2023,12:03,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,April 2023,10:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,April 2023,10:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579,2022,March 2023,08:01,Weatherford,TX ,Highway / Freeway,Dry,No Unusual Conditions,70.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2023,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,April 2023,03:15,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Peterbilt,579m,2022,March 2023,08:01,Weatherford,TX ,Highway / Freeway,Dry,No Unusual Conditions,70.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2023,March 2023,03:20,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,March 2023,23:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,23:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,04:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,21:49,San Francisco,CA ,Street,Wet,"Other, see Narrative",25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Toyota,Highlander,2016,March 2023,14:40,Paradise,NV ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,March 2023,23:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,03:20,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,March 2023,21:49,San Francisco,CA ,Street,Wet,"Other, see Narrative",25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,March 2023,23:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,04:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,111324,2016,March 2023,14:40,Paradise,NV ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,March 2023,22:45,Paradise,NV ,Street,Dry,No Unusual Conditions,25.0,Dark - Unknown Lighting,1,0,0,0,0,0,0,1
+Toyota,Highlander,2017,April 2023,11:19,San Francisco,CA ,Intersection,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,April 2023,04:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,April 2023,04:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,April 2023,10:48,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Hyundai,Santa Fe,2023,April 2023,15:45,Gahanna,OH ,Highway / Freeway,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2023,10:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2023,10:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,March 2023,04:29,San Francisco,CA ,Street,Wet,"Other, see Narrative",20.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,March 2023,14:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2022,March 2023,04:29,San Francisco,CA ,Street,Wet,"Other, see Narrative",20.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,March 2023,14:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2023,20:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,03:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,03:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,March 2023,03:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,14:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,14:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,20.0,Daylight,1,0,0,0,0,0,0,0
+Cruise,AV,2022,March 2023,04:29,San Francisco,CA ,Street,Wet,"Other, see Narrative",20.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2022,March 2023,04:29,San Francisco,CA ,Street,Wet,"Other, see Narrative",20.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Jaguar,I-Pace,2021,March 2023,20:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,March 2023,13:01,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,March 2023,13:01,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,March 2023,03:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2023,March 2023,03:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Jaguar,I-Pace,2021,February 2023,17:27,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2023,07:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2023,05:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2023,07:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2023,17:27,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2023,00:15,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2022,March 2023,01:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2022,March 2023,01:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,February 2023,00:29,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,February 2023,02:05,San Fancisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Mercedes-Benz,S580,2022,February 2023,15:10,Gardena,CA ,Highway / Freeway,Dry,"Other, see Narrative",,Daylight,1,0,0,0,0,0,0,1
+Mercedes-Benz,S580,2021,February 2023,08:25,Downey,CA ,Highway / Freeway,Dry,"Other, see Narrative",65.0,Daylight,1,0,0,0,0,0,0,1
+Kenworth Motor Truck Co,T680,2023,February 2023,10:15,Waxahachie,TX ,Highway / Freeway,Dry,Work Zone,60.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,February 2023,18:06,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,February 2023,13:27,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,February 2023,14:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,January 2023,18:40,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2023,February 2023,00:29,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,February 2023,02:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Kenworth Motor Truck Co,T680,2023,February 2023,10:15,Waxahachie,TX ,Highway / Freeway,Dry,Work Zone,60.0,Daylight,0,0,1,0,0,0,0,1
+Hyundai,Ioniq 5,2021,February 2023,14:18,Las Vegas,NV ,Street,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,March 2023,13:01,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,March 2023,13:01,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2022,March 2023,01:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,0
+Cruise,AV,2022,March 2023,01:06,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,February 2023,13:08,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2023,13:08,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2023,13:08,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2023,13:08,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,February 2023,00:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,February 2023,00:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Local Motors,2.0,2018,January 2023,11:01,Peachtree Corners,GA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,February 2023,13:50,Paradise,NV ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,January 2023,17:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,January 2023,13:53,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,January 2023,17:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2023,17:36,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,5.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Kenworth Motor Truck Co,T680,2023,February 2023,10:15,Waxahachie,TX ,Highway / Freeway,Dry,Work Zone,60.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,January 2023,15:00,Las Vegas,NV ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Ioniq 5,2021,January 2023,13:17,Las Vegas,NV ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,February 2023,00:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,February 2023,00:39,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Kenworth Motor Truck Co,T680,2023,February 2023,10:15,Waxahachie,TX ,Highway / Freeway,Dry,Work Zone,60.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,February 2023,13:50,Paradise,NV ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,January 2023,13:38,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2023,13:38,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,12:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,03:15,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Peterbilt,579 Epiq,2021,December 2022,05:18,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,1,0,0,0,0,1
+Jaguar,I- Pace,2021,December 2022,16:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I- Pace,2021,December 2022,16:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,03:15,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Peterbilt,579 Epiq,2021,December 2022,05:18,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,1,0,0,0,0,1
+Jaguar,I- Pace,2021,December 2022,16:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2021,December 2022,05:18,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,12:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I- Pace,2021,December 2022,16:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,03:15,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Peterbilt,579 Epiq,2021,December 2022,05:18,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,12:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,16:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Cruise,AV,2022,December 2022,23:59,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,December 2022,23:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,December 2022,23:59,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2023,December 2022,23:51,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,December 2022,08:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,December 2022,08:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,December 2022,08:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,December 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,December 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2022,13:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,13:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2023,December 2022,08:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,December 2022,08:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2023,December 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2023,December 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Sienna,2021,December 2022,09:02,Sun City,AZ ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,November 2022,15:43,Ann Arbor,MI ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,13:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,December 2022,13:50,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2022,16:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2022,09:34,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,November 2022,16:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2022,09:34,San Francisco,CA ,Intersection,Wet,No Unusual Conditions,25.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,November 2022,08:48,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2022,16:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Navya,ARMA,2018,December 2022,17:53,Port Saint Lucie,FL ,Street,Dry,No Unusual Conditions,1.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Mercedes-Benz,S450,2021,November 2022,17:20,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Mercedes-Benz,S450,2021,November 2022,17:20,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Mercedes-Benz,S450,2021,November 2022,17:20,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,21:05,Phoenix,AZ ,Parking Lot,Wet,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Highlander,2016,November 2022,22:18,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,November 2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,November 2022,18:06,Las Vegas,NV ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,November 2022,20:22,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Sienna,2021,December 2022,09:02,Sun City,AZ ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,November 2022,15:43,Ann Arbor,MI ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Sienna,2021,December 2022,09:02,Sun City,AZ ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2022,21:05,Phoenix,AZ ,Parking Lot,Wet,No Unusual Conditions,,Dark - Lighted,1,0,0,0,0,0,0,0
+Lexus,RX450h,2020,December 2022,18:38,Ann Arbor,MI ,Street,Dry,Traffic Incident,0.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2022,08:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2022,08:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579,2022,October 2022,10:55,Shenandoah,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2022,08:00,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2022,13:14,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Sienna,2021,September 2022,09:02,Sun City,AZ ,Parking Lot,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,0
+Toyota,Highlander,2016,October 2022,13:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,October 2022,14:02,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,November 2022,15:43,Ann Arbor,MI ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,October 2022,13:35,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,October 2022,13:35,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2022,08:00,Austin,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2022,13:14,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Polestar,Polestar 2,2022,October 2022,08:23,,FL ,Highway / Freeway,Dry,No Unusual Conditions,50.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,October 2022,13:35,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,October 2022,13:35,Tempe,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Polestar,Polestar 2,2022,October 2022,08:23,,FL ,Highway / Freeway,Dry,No Unusual Conditions,50.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,06:38,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,09:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,12:57,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,September 2022,04:03,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,September 2022,04:03,Huntsville,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,06:38,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,09:42,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,12:57,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,5.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,September 2022,10:23,Miami,FL ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,August 2022,16:15,Arlington,TX ,Intersection,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,September 2022,05:14,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2022,05:18,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Ford,Escape,2020,September 2022,10:23,Miami,FL ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,September 2022,05:14,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,September 2022,05:18,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Toyota,Sienna,2021,September 2022,09:02,Sun City,AZ ,Parking Lot,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,0
+Ford,Escape,2020,September 2022,17:24,Palo Alto,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,September 2022,17:24,Palo Alto,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,September 2022,17:24,Palo Alto,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,September 2022,17:24,Palo Alto,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,13:13,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,September 2022,13:13,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Ligier,EZ10 Gen 3,2019,August 2022,16:23,Rochester,MN ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,18:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2021,August 2022,18:33,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,03:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,18:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Kenworth,T680,2022,August 2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,11:03,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,18:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,00:06,Tempe,AZ ,Street,Dry,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2021,August 2022,18:33,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Dawn / Dusk,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,03:52,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,18:08,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,17:05,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,August 2022,12:23,Chandler,AZ ,Parking Lot,Dry,No Unusual Conditions,10.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2022,11:03,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,August 2022,12:31,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,August 2022,17:55,Miami Beach,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,August 2022,12:31,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,August 2022,17:55,Miami Beach,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,August 2022,03:53,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,August 2022,07:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,August 2022,21:01,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,August 2022,03:53,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,August 2022,07:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,13:13,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,0
+Kenworth Motor Truck Co,T680,2022,August 2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2022,13:13,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,0
+Cruise,AV,2022,September 2022,18:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2022,September 2022,18:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+LExus,RX450H,2020,August 2022,16:15,Arlington,TX ,Intersection,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,September 2022,11:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,August 2022,21:20,Las Vegas,CA ,Parking Lot,Dry,No Unusual Conditions,,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2022,September 2022,18:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,September 2022,11:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2022,September 2022,18:46,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Toyota,Highlander,2019,August 2022,17:21,Menlo Park,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Ligier Group,EZ10 Gen 3,2019,August 2022,16:23,Rochester,MN ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,August 2022,21:20,Las Vegas,CA ,Parking Lot,Dry,No Unusual Conditions,,Dark - Lighted,1,0,0,0,0,0,0,1
+Kenworth Motor Truck Co,T680,2022,August 2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,03:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2019,August 2022,17:21,Menlo Park,CA ,Street,Dry,Unknown,,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2022,03:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Ligier,EZ10 Gen 3,2019,August 2022,16:23,Rochester,MN ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Kenworth,T680,2022,August 2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Kenworth Motor Truck Co,T680,2022,August 2022,18:00,Palmer,TX ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,06:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,02:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,0,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,June 2022,16:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Chrysler,Pacifica,2017,August 2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2022,16:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,July 2022,22:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,July 2022,01:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,July 2022,02:57,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,July 2022,00:27,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Chrysler,Pacifica,2017,August 2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2022,02:50,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,0,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2022,02:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,May 2022,16:11,Arlington,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,July 2022,00:27,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,0
+Cruise,AV,2020,July 2022,01:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,July 2022,22:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,July 2022,02:57,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,July 2022,23:23,San Francisco,CA ,Street,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,06:54,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,10:08,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2022,03:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,July 2022,14:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2022,03:09,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Freightliner,Cascadia,2021,July 2022,12:39,Santa Rosa,NM ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+FREIGHTLINER,CASCADIA,2021,July 2022,12:39,Santa Rosa,NM ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,August 2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Chrysler,Pacifica,2017,August 2022,10:25,Tempe,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+FREIGHTLINER,CASCADIA,2021,July 2022,16:33,ALBUQUERQUE,NM ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+FREIGHTLINER,Cascadia,2021,July 2022,16:33,ALBUQUERQUE,NM ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+FREIGHTLINER,CASCADIA,2021,July 2022,16:33,ALBUQUERQUE,NM ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,09:04,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,09:04,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2022,10:07,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,June 2022,07:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+FREIGHTLINER,Cascadia,2021,July 2022,16:33,ALBUQUERQUE,NM ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,0,0,1,0,0,0,0,1
+Ford,Escape,2020,June 2022,13:30,Pittsburgh,PA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,14:48,Miami,FL ,Street,Wet,No Unusual Conditions,30.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,June 2022,10:07,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Daylight,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,June 2022,07:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,June 2022,10:45,San Mateo,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,00:57,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,15:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX 450h,2016,June 2022,15:15,Mountain View,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,13:30,Pittsburgh,PA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,14:48,Miami,FL ,Street,Wet,No Unusual Conditions,30.0,Daylight,0,0,0,0,1,0,0,1
+Toyota,Highlander,2016,June 2022,14:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2022,09:04,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,10:49,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,09:04,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,10:49,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,00:57,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2022,15:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2022,12:50,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2022,12:50,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,July 2021,09:26,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,10:49,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,10:49,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,June 2022,,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,June 2022,,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,16:35,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,16:35,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,13:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,09:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,13:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,13:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,09:19,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,13:26,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+International,LT625,2021,April 2022,15:52,Tucson,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,May 2022,08:11,WDC,DC ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Ioniq 5,2022,May 2022,12:58,Las Vegas,NV ,Street,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,1
+Mercedes-Benz,S350D,2022,May 2022,15:05,Commerce,CA ,Highway / Freeway,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Mercedes-Benz,S350D,2022,May 2022,15:05,Commerce,CA ,Highway / Freeway,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,May 2022,08:11,WDC,DC ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,May 2022,15:00,Irvine,CA ,Street,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,1
+Navya,,9999,May 2022,12:30,Dunedin,FL ,Intersection,Dry,Traffic Incident,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,May 2022,16:11,Arlington,TX ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2022,June 2022,23:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,May 2022,13:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2022,June 2022,23:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,01:54,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,01:54,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Ford,Escape,2020,June 2022,16:35,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Escape,2020,June 2022,16:35,Austin,TX ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,February 2022,00:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,May 2022,04:37,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,February 2022,00:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,May 2022,04:37,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2022,02:30,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,01:43,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,01:43,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,May 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2022,June 2022,23:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2022,June 2022,23:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,01:54,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Cruise,AV,2020,June 2022,01:54,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Toyota,Highlander,2016,June 2022,13:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2022,01:43,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,May 2022,02:30,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,May 2022,01:43,Phoenix,AZ ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-PACE,2021,May 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,May 2022,15:11,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,1,1
+Peterbilt,579 Epiq,2022,May 2022,15:11,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,06:37,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,23:30,Phoenix,AZ ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,08:14,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,April 2022,05:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+,,9999,,,,,,,,,,0,0,0,0,0,0,0,1
+Hyundai,Kona EV,2020,April 2022,09:00,Miliptas,CA ,Parking Lot,Wet,No Unusual Conditions,,Daylight,0,0,1,0,1,0,0,1
+INTERNATIONAL,LT 625,2021,April 2022,15:52,Tucson,AZ ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,April 2022,00:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,03:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,0
+Cruise,AV,2020,April 2022,00:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,April 2022,01:55,San Francisco,CA ,Intersection,Dry,Work Zone,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+International,LT,2022,November 2021,19:57,Maxatawny Township,PA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,0,0,0,0,0,0,1,1
+Cruise,AV,2020,April 2022,03:35,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,April 2022,00:13,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,April 2022,01:55,San Francisco,CA ,Intersection,Dry,Work Zone,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,April 2022,00:43,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Peterbilt,579 Epiq,2022,May 2022,15:11,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,1,1
+Peterbilt,579 Epiq,2022,May 2022,15:11,Ennis,TX ,Highway / Freeway,Dry,No Unusual Conditions,65.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,16:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,16:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,02:31,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,April 2022,23:21,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,16:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,12:26,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,16:36,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,12:26,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,02:31,San Francisco,CA ,Parking Lot,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,18:29,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2022,12:22,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2022,18:14,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2022,07:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,19:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,March 2022,12:50,Miami,FL ,Intersection,Wet,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,March 2022,08:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Hyundai,Kona EV,2019,March 2022,11:30,Tustin,CA ,Street,Wet,"Other, see Narrative",45.0,Daylight,0,0,1,0,1,0,0,1
+Ford,Fusion,2019,March 2022,12:50,Miami,FL ,Intersection,Wet,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,14:53,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jeep,Grand Cherokee,2022,April 2022,03:30,Saint Clair,MI ,Unknown,Dry,No Unusual Conditions,55.0,Dark - Unknown Lighting,1,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,12:26,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2022,11:07,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,02:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,April 2022,18:29,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,12:26,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,19:55,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jeep,Grand Cherokee,2022,April 2022,03:30,Saint Clair,MI ,Unknown,Dry,No Unusual Conditions,55.0,Dark - Unknown Lighting,1,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2022,14:57,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2020,March 2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2022,March 2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2022,March 2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,1,1
+Jaguar,I-Pace,2021,April 2022,02:27,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,March 2022,11:07,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,March 2022,15:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2022,01:16,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Cruise,AV,2020,March 2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Cruise,AV,2020,March 2022,02:07,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,March 2022,14:57,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2022,March 2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,1,1
+Cruise,AV,2022,March 2022,13:24,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,1,1
+Toyota,Highlander,2016,March 2022,15:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,1,1
+Ford,Escape,2020,March 2022,12:39,Coral Gables,FL ,Traffic Circle,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Mercedes-Benz,EQS 450 4Matic,9999,March 2022,08:50,Los Angeles,CA ,Parking Lot,Dry,"Other, see Narrative",5.0,Daylight,1,0,0,0,0,0,1,0
+Ford,Escape,2020,March 2022,12:39,Coral Gables,FL ,Traffic Circle,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2022,21:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,13:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,00:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,19:45,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,15:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,15:05,San Francisco,CA ,Street,Dry,"Other, see Narrative",25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,08:44,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,February 2022,08:51,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,February 2022,20:55,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,February 2022,00:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Ford,Fusion,2019,February 2022,08:51,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2020,February 2022,00:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Ford,Escape,2020,March 2022,12:39,Coral Gables,FL ,Traffic Circle,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Ford,Escape,2020,March 2022,12:39,Coral Gables,FL ,Traffic Circle,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+EQS,450 4matic,9999,March 2022,08:50,Los Angeles,CA ,Parking Lot,Unknown,Unknown,,Unknown,0,0,0,0,0,0,1,1
+EQS,450 4matic,9999,March 2022,08:50,Los Angelas,CA ,Parking Lot,Unknown,Unknown,,Unknown,0,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,March 2022,21:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Mercedes-Benz,EQS 450 4Matic,9999,March 2022,08:50,Los Angeles,CA ,Parking Lot,Dry,"Other, see Narrative",5.0,Daylight,1,0,0,0,0,0,1,0
+Peterbilt,579 Epiq,2022,February 2022,10:30,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,17:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Peterbilt,579 Epiq,2022,February 2022,10:30,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,17:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,02:04,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,06:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,14:24,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,09:00,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,January 2022,08:55,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,January 2022,13:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,January 2022,13:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Peterbilt,579 Epiq,2022,February 2022,10:30,Sacaton,AZ ,Highway / Freeway,Dry,No Unusual Conditions,75.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,February 2022,17:46,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,February 2022,08:40,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,January 2022,20:40,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Ford,Escape,2020,January 2022,12:22,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Ford,Escape,2020,January 2022,12:22,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,January 2022,13:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,January 2022,13:10,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,January 2022,03:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,January 2022,03:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,02:11,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,20:40,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,17:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,17:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Ford,Escape,2020,January 2022,12:22,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Ford,Escape,2020,January 2022,12:22,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,January 2022,03:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,January 2022,03:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,January 2022,03:56,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,02:11,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,17:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,January 2022,17:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,12:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:47,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,December 2021,22:15,Las Vegas,NV ,Traffic Circle,Wet,No Unusual Conditions,,Dark - Lighted,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:47,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,12:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Cruise,AV,2020,December 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,November 2021,07:44,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,December 2021,17:22,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,December 2021,18:41,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Cruise,AV,2020,November 2021,07:44,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,December 2021,17:22,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Cruise,AV,2020,December 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Cruise,AV,2020,December 2021,18:41,San Francisco,CA ,Street,Wet,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,1,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,10:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,01:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,13:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,11:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,November 2021,18:47,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,October 2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,November 2021,18:47,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,11:11,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,13:23,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,01:50,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,October 2021,,Fremont,CA ,Unknown,Unknown,Unknown,,Unknown,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,December 2021,16:30,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Chevrolet,Bolt,2020,November 2021,15:05,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,December 2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,December 2021,16:30,San Francisco,CA ,Street,Unknown,No Unusual Conditions,25.0,Daylight,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,November 2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,November 2021,20:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,November 2021,18:08,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,October 2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,1,1
+Hyundai,Kona EV,2021,October 2021,,Fremont,CA ,Unknown,Unknown,Unknown,,Unknown,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,00:39,Phoenix,AZ ,Intersection,Dry,No Unusual Conditions,35.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Chevrolet,Bolt,2020,November 2021,16:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,October 2021,,Fremont,CA ,Unknown,Unknown,Unknown,,Unknown,0,0,0,0,0,0,0,1
+Hyundai,Kona EV,2021,October 2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,02:20,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,0,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,21:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,12:57,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,18:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,October 2021,13:48,Mesa,AZ ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,October 2021,12:57,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,October 2021,15:05,San Francisco,CA ,Intersection,Unknown,No Unusual Conditions,25.0,Daylight,1,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,21:35,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,18:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dawn / Dusk,1,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,October 2021,01:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2021,14:25,Palo Alto,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+EZ10,GEN2,2018,October 2021,08:23,Golden,CO ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+EZ10,GEN2,2018,October 2021,15:15,Golden,CO ,Street,Dry,No Unusual Conditions,9.0,Daylight,1,0,0,0,0,0,0,0
+Nissan,Leaf SL,2019,November 2021,15:27,San Jose,CA ,Highway / Freeway,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+,,9999,,,,,,,,,,0,0,0,0,0,0,0,1
+Ford,Escape,2020,October 2021,14:25,Palo Alto,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Chevrolet,Bolt,2020,November 2021,16:49,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Hyundai,Kona/EV,2021,October 2021,10:50,Fremont,CA ,Street,Dry,No Unusual Conditions,40.0,Daylight,1,0,0,0,0,0,0,1
+EZ10,GEN2,2018,October 2021,15:15,Golden,CO ,Street,Dry,No Unusual Conditions,9.0,Daylight,1,0,0,0,0,0,0,0
+EZ10,GEN2,2018,October 2021,08:23,Golden,CO ,Street,Dry,No Unusual Conditions,0.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,November 2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,November 2021,16:28,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Chrysler,Pacifica,2017,October 2021,14:44,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,0
+EZ10,GEN2,2018,October 2021,15:15,Golden,CO ,Street,Dry,No Unusual Conditions,9.0,Daylight,1,0,0,0,0,0,0,0
+Chrysler,Pacifica,2017,October 2021,14:44,Chandler,AZ ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,0
+Chevrolet,Bolt,2020,August 2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,11:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,01:58,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,17:14,Sann Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,01:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,13:54,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,01:58,Tempe,AZ ,Parking Lot,Dry,No Unusual Conditions,15.0,Dark - Lighted,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,September 2021,11:39,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,12:33,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,17:14,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,September 2021,01:56,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Not Lighted,1,0,0,0,0,0,0,1
+Lexus,RX 450h,2017,September 2021,10:53,Sunnyvale,CA ,Intersection,Dry,No Unusual Conditions,45.0,Daylight,0,0,1,0,0,0,0,1
+Toyota,Highlander,2016,September 2021,15:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,15:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,15:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,1,1
+EZ10,GEN2,2018,October 2021,08:23,Golden,CO ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,October 2021,15:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,October 2021,15:51,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,07:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,16:15,San Francisco,CA ,Intersection,Snow / Slush / Ice,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,08:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,17:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,16:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+NAVYA,Arma ,2016,September 2021,16:43,Orlando,FL ,Street,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,0
+Local Motors,Olli 1.0,2019,August 2021,17:00,Mammoth,WY ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Jaguar,I-Pace,2021,August 2021,07:30,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,08:04,San Francisco,CA ,Street,Dry,No Unusual Conditions,30.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,16:15,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,August 2021,12:58,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+OLLI,1.0,2019,August 2021,,,WY ,Parking Lot,Dry,No Unusual Conditions,,Daylight,1,0,0,0,0,0,0,0
+Ford,Fusion,2019,August 2021,08:10,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Local Motors,Olli,2019,August 2021,20:00,Yellowstone National Park,WY ,Parking Lot,Dry,No Unusual Conditions,15.0,Daylight,1,0,0,0,0,0,0,0
+Toyota,Highlander,2019,September 2021,08:02,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,August 2021,11:16,Indianapolis,IN ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,13:54,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,17:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,13:54,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,September 2021,13:18,Miami Beach,FL ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,September 2021,13:18,Miami Beach,FL ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,17:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,August 2021,11:30,Ann Arbor,MI ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,August 2021,11:16,Indianapolis,IN ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,August 2021,23:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Chrysler,Pacifica,2017,September 2021,13:54,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,September 2021,13:54,Tempe,AZ ,Street,Dry,No Unusual Conditions,45.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,17:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,September 2021,13:18,Miami Beach,FL ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,September 2021,13:18,Miami Beach,FL ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,September 2021,13:18,Miami Beach,FL ,Street,Dry,"Other, see Narrative",30.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,17:41,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,August 2021,23:05,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,1,1
+Lexus,RX450H,2020,July 2021,16:15,Indianapolis,IN ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,August 2021,22:18,Las Vegas,NV ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,July 2021,23:34,Las Vegas,NV ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Chevrolet,Bolt,2020,July 2021,21:38,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Dark - Lighted,1,0,0,0,0,0,0,1
+Toyota,Highlander,2016,July 2021,08:44,Las Vegas,NV ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2021,15:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Ford,Fusion,2019,July 2021,09:50,Miami,FL ,Street,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,July 2021,16:33,Austin,TX ,Intersection,Dry,No Unusual Conditions,30.0,Daylight,1,0,0,0,0,0,0,1
+Lexus,RX450H,2020,July 2021,16:15,Indianapolis,IN ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Lincoln,MKZ,2017,July 2021,11:35,San Jose,CA ,Street,Dry,No Unusual Conditions,35.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,16:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,July 2021,09:26,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,August 2021,16:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,August 2021,16:48,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Ford,Fusion,2019,July 2021,09:26,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,July 2021,13:15,San Francisco,CA ,Street,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,1,1
+Cruise,AV,2020,July 2021,13:15,San Francisco,CA ,Street,Dry,Work Zone,25.0,Daylight,1,0,0,0,0,0,1,1
+Ford,Fusion,2019,July 2021,09:26,Washington DC,DC ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,1,1
+Jaguar,I-Pace,2021,July 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2021,15:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2021,15:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Jaguar,I-Pace,2021,July 2021,16:47,San Francisco,CA ,Street,Dry,No Unusual Conditions,25.0,Daylight,1,0,0,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2021,15:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
+Chrysler,Pacifica,2017,July 2021,15:10,San Francisco,CA ,Intersection,Dry,No Unusual Conditions,25.0,Daylight,0,0,1,0,0,0,0,1
