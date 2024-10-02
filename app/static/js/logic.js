@@ -12,11 +12,11 @@ $(document).ready(function() {
 function makePredictions() {
   var Weather = $("#Weather").val();
   var Roadway_Type = $("#Roadway_Type").val();
-  var Roadway_Surface = $("#Roadway_Surface").val();
   var Model_Year = $("#Model_Year").val();
   var Passengers_Belted = $("#Passengers_Belted").val();
   var Time_of_Day = $("#Time_of_Day").val();
   var Speed_Limit = $("#Speed_Limit").val();
+  var Roadway_Surface = $("#Roadway_Surface").val();
 
   // check if inputs are valid
 
@@ -24,12 +24,12 @@ function makePredictions() {
   var payload = {
       "Weather": Weather,
       "Roadway_Type": Roadway_Type,
-      "Roadway_Surface": Roadway_Surface,
       "Model_Year": Model_Year,
       "Passengers_Belted": Passengers_Belted,
       "Time_of_Day": Time_of_Day,
       "Speed_Limit": Speed_Limit,
-  }
+      "Roadway_Surface": Roadway_Surface,
+   }
 
   // Perform a POST request to the query URL
   $.ajax({

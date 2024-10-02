@@ -36,8 +36,26 @@ def about_us():
 def works_cited():
     return render_template("works_cited.html")
 
+@app.route("/makePredictions", methods=["POST"])
+def make_predictions():
+    content = request.json["data"]
+    print(content)
+
+    # parse
+    Weather = (content["Weather"])
+    Roadway_Type = (content["Roadway_Type"])
+    Model_Year = int(content["Model_Year"])
+    Passengers_Belted = int(content["Passengers_Belted"])
+    Time_of_Day = content["Time_of_Day"]
+    Speed_Limit = int(content["Speed_Limit"])
+    Roadway_Surface = content["Roadway_Surface"]
+   
+    preds = modelHelper.makePredictions(Weather, Roadway_Type, Model_Year, Passengers_Belted, Time_of_Day,
+                       Speed_Limit, Roadway_Surface)
+    return(jsonify({"ok": True, "prediction": preds}))
 
 
+ 
 #############################################################
 
 @app.after_request
