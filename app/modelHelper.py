@@ -82,7 +82,7 @@ class ModelHelper():
         rf_load = pickle.load(open(filename, 'rb'))
     
         X = np.array(input_pred)
-        print(X)
+       
         preds = rf_load.predict_proba(X)[0]
         preds_singular = rf_load.predict(X)
     

@@ -45,7 +45,7 @@ function makePredictions() {
           if (pred["car_crash_pred"] === "high_risk") {
               $("#output").text(`This is your probability of a car crash ${(pred["prob_high_risk"]*100).toFixed(2)}%.`);
           } else {
-              $("#output").text(`Congratulations! This is your probability of a car crash ${(pred["prob_low_risk"]*100).toFixed(2)}%.`);
+              $("#output").text(`Congratulations! This is your probability of a car crash ${(pred["prob_high_risk"]*100).toFixed(2)}%.`);
           }
 
       },
