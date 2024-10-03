@@ -33,26 +33,29 @@ function makePredictions() {
 
   // Perform a POST request to the query URL
   $.ajax({
-      type: "POST",
-      url: "/makePredictions",
-      contentType: 'application/json;charset=UTF-8',
-      data: JSON.stringify({ "data": payload }),
-      success: function(returnedData) {
-          // print it
-          console.log(returnedData);
-          let pred = returnedData["prediction"]
+    type: "POST",
+    url: "/makePredictions",
+    contentType: 'application/json;charset=UTF-8',
+    data: JSON.stringify({ "data": payload }),
+    success: function(returnedData) {
+        // print it
+        console.log(returnedData);
+        let pred = returnedData["prediction"];
+        let probability = pred["prob_high_risk"] * 100;
 
-          if (pred["car_crash_pred"] === "high_risk") {
-              $("#output").text(`This is your probability of a car crash ${(pred["prob_high_risk"]*100).toFixed(2)}%.`);
-          } else {
-              $("#output").text(`Congratulations! This is your probability of a car crash ${(pred["prob_high_risk"]*100).toFixed(2)}%.`);
-          }
-
-      },
-      error: function(XMLHttpRequest, textStatus, errorThrown) {
-          alert("Status: " + textStatus);
-          alert("Error: " + errorThrown);
+        // Check the probability for the car crash
+        if (probability < 50) {
+            $("#output").text(`You have less than a 50% chance of injuries in a car crash that has automated driving systems. Your Probability is: ${probability.toFixed(2)}%.`);
+        } 
+        else {
+                $("#output").text(`Risk is HIGH: You have greater than a 50% chance of injuries in a car crash that has automated driving systems.  Your probability is: ${probability.toFixed(2)}%.`);
         }
-    });
+    },
+    error: function(XMLHttpRequest, textStatus, errorThrown) {
+        alert("Status: " + textStatus);
+        alert("Error: " + errorThrown);
+    }
+});
+
 
     }

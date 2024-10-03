@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import pickle
 import numpy as np
@@ -77,8 +78,9 @@ class ModelHelper():
        Roadway_Type_Street, Roadway_Surface_Dry, Roadway_Surface_Wet
                        ]]
                        
+        # Build the absolute path
+        filename = os.path.join(os.path.dirname(__file__), 'car_crash_ml_v2.h5')
     
-        filename = 'car_crash_ml_v2.h5'
         rf_load = pickle.load(open(filename, 'rb'))
     
         X = np.array(input_pred)
